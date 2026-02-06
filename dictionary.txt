@@ -17,7 +17,7 @@
 – Mehlhase (Flour rabbit)
 – Gebaeck (Pastries)
 – Baeckerei (Bakery)
-– Hund (Dog)
+– Hund (Dog) #USED ON LINE 5
 – Doener (Turkish kebab) #USED ON LINE 4
 – Apfelkuchen (Apple cake)
 – Schloss Eltz (Castle Eltz)
