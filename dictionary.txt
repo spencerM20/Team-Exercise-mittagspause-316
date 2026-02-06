@@ -15,7 +15,7 @@
 – Schloss (Castle/palace)
 – wettbewerbsfaehig (Competitive)     ##USED ON LINE 3
 – Mehlhase (Flour rabbit)
-– Gebaeck (Pastries)
+– Gebaeck (Pastries) ##USED ON LINE 8
 – Baeckerei (Bakery)
 – Hund (Dog) ##USED ON LINE 6
 – Doener (Turkish kebab) ##USED ON LINE 4
