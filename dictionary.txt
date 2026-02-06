@@ -11,13 +11,13 @@
 – Biergarten (Beer garden)  ##USED ON LINE 3
 – Ratskeller (Council cellar/restaurant)
 – Dirndel (Traditional dress)
-– Lederhose (Leather pants)
+– Lederhose (Leather pants) ##USED ON LINE 6
 – Schloss (Castle/palace)
 – wettbewerbsfaehig (Competitive)     ##USED ON LINE 3
 – Mehlhase (Flour rabbit)
 – Gebaeck (Pastries)
 – Baeckerei (Bakery)
-– Hund (Dog)
+– Hund (Dog) ##USED ON LINE 6
 – Doener (Turkish kebab) ##USED ON LINE 4
-– Apfelkuchen (Apple cake) ##USED ON LINE 7
-– Schloss Eltz (Castle Eltz)
+– Apfelkuchen (Apple cake)
+– Schloss Eltz (Castle Eltz) ##USED ON LINE 7
