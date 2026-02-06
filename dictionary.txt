@@ -1,8 +1,8 @@
 – Raesfeld
 – Flughafen (Airport)
-– Berlin
-– Bratwurst (Grilled sausage)
-– Hauptstrasse (Main street)
++ Berlin
++ Bratwurst (Grilled sausage)
++ Hauptstrasse (Main street)
 – Brot (Bread)
 – Klimaanlage (Air conditioning)
 – Rammstein (German band)
