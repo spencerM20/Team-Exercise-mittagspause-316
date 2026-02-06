@@ -18,6 +18,6 @@
 – Gebaeck (Pastries)
 – Baeckerei (Bakery)
 – Hund (Dog)
-– Doener (Turkish kebab) #USED ON LINE 4
-– Apfelkuchen (Apple cake) #USED ON LINE 7
+– Doener (Turkish kebab) ##USED ON LINE 4
+– Apfelkuchen (Apple cake) ##USED ON LINE 7
 – Schloss Eltz (Castle Eltz)
