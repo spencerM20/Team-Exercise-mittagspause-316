@@ -10,14 +10,14 @@
 – BMW
 – Biergarten (Beer garden)  ##USED ON LINE 3
 – Ratskeller (Council cellar/restaurant)
-– Dirndel (Traditional dress)
-– Lederhose (Leather pants) ##USED ON LINE 6
+– Dirndel (Traditional dress) #USED ON LINE 10
+– Lederhose (Leather pants) ##USED ON LINE 6 & 10
 – Schloss (Castle/palace)
 – wettbewerbsfaehig (Competitive)     ##USED ON LINE 3
 – Mehlhase (Flour rabbit)
 – Gebaeck (Pastries) ##USED ON LINE 8
 – Baeckerei (Bakery)
-– Hund (Dog) ##USED ON LINE 6
+– Hund (Dog) ##USED ON LINE 6 & 10
 – Doener (Turkish kebab) ##USED ON LINE 4
 – Apfelkuchen (Apple cake)
 – Schloss Eltz (Castle Eltz) ##USED ON LINE 7

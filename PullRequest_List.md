@@ -8,4 +8,4 @@ Spencer Marean: <https://github.com/dreynolds5/verschnaufpause_StoryTime/pull/4>
 
 Austin Hale: <>
 
-Daniel Andrews: <>
+Daniel Andrews: <https://github.com/dreynolds5/verschnaufpause_StoryTime/pull/9>
